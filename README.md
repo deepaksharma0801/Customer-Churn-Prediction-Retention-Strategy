@@ -57,7 +57,7 @@ streamlit run app.py
     └── retention.py
 ```
 
-## Retention ROI logic (summary)
+## Retention ROI logic
 - Baseline loss = sum of MonthlyCharges for churned customers
 - Target top X% highest-risk customers
 - A % of targeted churners are retained (success rate)

@@ -8,4 +8,4 @@ from src.data import download_data  # noqa: E402
 
 if __name__ == "__main__":
     path = download_data()
-    print(f"Downloaded dataset to {path}")
+    print(f"Downloaded the dataset to {path}")

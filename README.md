@@ -3,7 +3,7 @@
 End-to-end, industry-ready churn prediction project with explainable ML and ROI simulation.
 
 ## What this delivers
-- Clean EDA + feature engineering
+- Clean EDA + feature engineering prospect
 - Model comparison (Logistic Regression, Random Forest, XGBoost)
 - SHAP explainability for business-ready drivers
 - Retention ROI simulator (top-risk targeting)
